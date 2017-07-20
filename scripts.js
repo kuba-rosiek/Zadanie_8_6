@@ -4,8 +4,6 @@
 var a,
     b,
     value,
-	wynik_dodatni,
-	
 	a=1;
 	b=0;
 
